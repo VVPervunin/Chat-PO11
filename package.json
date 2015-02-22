@@ -1,0 +1,23 @@
+{
+  "name": "Chat-PO11",
+  "version": "1.0.0",
+  "description": "Group project simple chat",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alendorff/Chat-PO11"
+  },
+  "contributors": [
+    "Alendorff",
+    "Sawaru",
+    "Hronbox"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alendorff/Chat-PO11/issues"
+  },
+  "homepage": "https://github.com/Alendorff/Chat-PO11",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
